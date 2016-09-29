@@ -1,0 +1,2 @@
+CHANGED,E:\Master\Kuliah\Smt 7 (bismillah)\MobProg\Tugas2\MobileProgramming2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\ninggawhite\mobileprogramming\MainActivity$2$override.class
+CHANGED,E:\Master\Kuliah\Smt 7 (bismillah)\MobProg\Tugas2\MobileProgramming2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
